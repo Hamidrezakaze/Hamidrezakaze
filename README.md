@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamidrezakaze
-- 👀 I’m interested in Python Data Analysis
-- 🌱 I’m currently learning Python pandas and numpy libraries
-- 💞️ I’m looking to collaborate on python applications in finance
+- 👀 I’m interested in Python Data Analysis.
+- 🌱 I’m currently learning Python pandas and numpy libraries.
+- 💞️ I’m looking to collaborate on python applications in finance.
 - 📫 How to reach me is just send an email to kazeroonihamidreza@gmail.com
 
 <!---
